@@ -1,10 +1,15 @@
 @font-face {
     font-family: "ionicons";
     src: url("./ionicons.eot?6d31ef124529136babba43deeb36c79a?#iefix") format("embedded-opentype"),
-url("./ionicons.woff2?6d31ef124529136babba43deeb36c79a") format("woff2"),
-url("./ionicons.woff?6d31ef124529136babba43deeb36c79a") format("woff"),
-url("./ionicons.ttf?6d31ef124529136babba43deeb36c79a") format("truetype"),
-url("./ionicons.svg?6d31ef124529136babba43deeb36c79a#ionicons") format("svg");
+    url("./ionicons.woff2?6d31ef124529136babba43deeb36c79a") format("woff2"),
+    url("./ionicons.woff?6d31ef124529136babba43deeb36c79a") format("woff"),
+    url("./ionicons.ttf?6d31ef124529136babba43deeb36c79a") format("truetype"),
+    url("./ionicons.svg?6d31ef124529136babba43deeb36c79a#ionicons") format("svg");
+    src:  url("./extended/icomoon.eot?cmu5c1");
+    src:  url("./extended/icomoon.eot?cmu5c1#iefix") format("embedded-opentype"),
+    url("./extended/icomoon.ttf?cmu5c1") format("truetype"),
+    url("./extended/icomoon.woff?cmu5c1") format("woff"),
+    url("./extended/icomoon.svg?cmu5c1#icomoon") format("svg");
 }
 
 i[class^="ion-"]:before, i[class*=" ion-"]:before {
@@ -4014,3 +4019,163 @@ i[class^="ion-"]:before, i[class*=" ion-"]:before {
 .ion-woman:before {
     content: "\f634";
 }
+.ion-energy-resources .path1:before {
+    content: "\e900";
+    color: rgb(255, 255, 255);
+}
+.ion-energy-resources .path2:before {
+    content: "\e901";
+    margin-left: -1.0634765625em;
+    color: rgb(213, 117, 45);
+}
+.ion-energy-resources .path3:before {
+    content: "\e902";
+    margin-left: -1.0634765625em;
+    color: rgb(255, 255, 255);
+}
+.ion-energy-resources .path4:before {
+    content: "\e903";
+    margin-left: -1.0634765625em;
+    color: rgb(213, 117, 45);
+}
+.ion-energy-resources .path5:before {
+    content: "\e904";
+    margin-left: -1.0634765625em;
+    color: rgb(255, 255, 255);
+}
+.ion-energy-resources .path6:before {
+    content: "\e905";
+    margin-left: -1.0634765625em;
+    color: rgb(213, 117, 45);
+}
+.ion-energy-resources .path7:before {
+    content: "\e906";
+    margin-left: -1.0634765625em;
+    color: rgb(255, 255, 255);
+}
+.ion-energy-resources .path8:before {
+    content: "\e907";
+    margin-left: -1.0634765625em;
+    color: rgb(213, 117, 45);
+}
+.ion-energy-resources .path9:before {
+    content: "\e908";
+    margin-left: -1.0634765625em;
+    color: rgb(213, 117, 45);
+}
+.ion-boundaries:before {
+    content: "\e909";
+    color: #fdfdfd;
+}
+.ion-forecasts .path1:before {
+    content: "\e90a";
+    color: rgb(255, 255, 255);
+}
+.ion-forecasts .path2:before {
+    content: "\e90b";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.ion-forecasts .path3:before {
+    content: "\e90c";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path4:before {
+    content: "\e90d";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path5:before {
+    content: "\e90e";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path6:before {
+    content: "\e90f";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path7:before {
+    content: "\e910";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path8:before {
+    content: "\e911";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path9:before {
+    content: "\e912";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path10:before {
+    content: "\e913";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-forecasts .path11:before {
+    content: "\e914";
+    margin-left: -1em;
+    color: rgb(213, 117, 45);
+}
+.ion-markets:before {
+    content: "\e915";
+    color: #fff;
+}
+.ion-events .path1:before {
+    content: "\e916";
+    color: rgb(255, 255, 255);
+}
+.ion-events .path2:before {
+    content: "\e917";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path3:before {
+    content: "\e918";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path4:before {
+    content: "\e919";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path5:before {
+    content: "\e91a";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path6:before {
+    content: "\e91b";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path7:before {
+    content: "\e91c";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path8:before {
+    content: "\e91d";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path9:before {
+    content: "\e91e";
+    margin-left: -0.9521484375em;
+    color: rgb(213, 117, 45);
+}
+.ion-events .path10:before {
+    content: "\e91f";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}
+.ion-events .path11:before {
+    content: "\e920";
+    margin-left: -0.9521484375em;
+    color: rgb(255, 255, 255);
+}  
